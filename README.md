@@ -1,4 +1,5 @@
 # movie-app
+Movie Search Engine Web Application that lets you search for movies using key words and view corresponding movie information. Uses the OMDb Movie APi.
 
 ## Project setup
 ```
